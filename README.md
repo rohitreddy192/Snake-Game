@@ -1,6 +1,6 @@
 # Snake-Game
 
-Designed a classic Snake Game to make sure the fundamentals of Game Development in a right. 
+Designed a classic Snake Game to make sure the fundamentals of Game Development right. 
 
 # Modules used:-
 1. Pygame
